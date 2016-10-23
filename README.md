@@ -1,8 +1,6 @@
 # Rastgen
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rastgen`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+A simple gem for now, to satisfy a need to be able to do simple refactorings reliably in bulk.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Look at the [specs](specs/rastgen_spec.rb) for examples, they are basically simple refactorings.
+Look at the [specs](spec/rastgen_spec.rb) for examples, they are basically simple refactorings.
 
 ## Development
 

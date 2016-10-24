@@ -14,5 +14,8 @@ module MyNS
     def build(data)
       Model.new({ connection: connection }.merge(data))
     end
+
+    def empty
+    end
   end
 end
